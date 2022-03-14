@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>todo-api</name>
-
+<name>todo-api</name>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
